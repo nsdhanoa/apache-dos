@@ -1,3 +1,6 @@
+# Kindly use this for Educational Purpose only.
+# Author: Nanak Singh
+
 import sys
 import socket
 import time
